@@ -1,7 +1,7 @@
 ## Repository overview
 This repository contains files to reproduce the analyses presented in
 the Bayesian Cell Classifier chapter. It contains XMLs with all the analyses specifications
- and a jar file with BEAST2, the BayesianCellClassifier and other useful BEAST packages
+ and a jar file with BEAST2, the BayesianCellClassifier package and other useful BEAST packages
  to readily run the analyses specified in the XML files.
 
  To 'naively' run an analysis, use for example the command
